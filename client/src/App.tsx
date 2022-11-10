@@ -4,9 +4,9 @@ import React, { useContext, useEffect } from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <div className="text-3xl font-bold underline">
       <header className="App-header">
-        <img src={#} className="App-logo" alt="logo" />
+        <img src="#" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
